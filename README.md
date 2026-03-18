@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Morena
 
-<!--
-**xianortg/xianortg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Programación
+💻 Aprendiendo desarrollo web y programación
+📍 Argentina
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🔭 Estoy aprendiendo: HTML, CSS, JavaScript, Python, MySQL, SQLlite
+- 🧠 Interesada en: desarrollo web, diseño, testing
+- 🎯 Objetivo: mejorar mis habilidades y conseguir experiencia real
+
+---
+
+## 📫 Contacto
+- 📧 Email: moxoll24@gmail.com
+- 💬 Instagram: @esnupixian
+
+---
+
+✨ Gracias por visitar mi perfil ✨
