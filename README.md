@@ -54,7 +54,7 @@ Estoy trabajando en mejorar mis proyectos y hacerlos más completos.
   <a>Gmail: moxoll24@gmail.com</a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/Morena-Maraz">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/morena-maraz-883ab53a0">LinkedIn</a>
 </p>
 
 ---
