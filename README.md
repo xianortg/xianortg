@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy [Tu Nombre]</h1>
+<h1 align="center">👋 Hola, soy Morena</h1>
 
 <p align="center">
 🎓 Estudiante de último año en escuela técnica (Programación) <br>
@@ -53,7 +53,9 @@ Estoy trabajando en mejorar mis proyectos y hacerlos más completos.
 <p align="center">
   <a>Gmail: moxoll24@gmail.com</a>
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/Morena-Maraz">LinkedIn</a>
+</p>
 
 ---
 
